@@ -1,1 +1,1 @@
-# amzn-rubybuilder
+# amzn-gobuilder
