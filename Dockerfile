@@ -1,5 +1,5 @@
 FROM amazonlinux
-MAINTAINER ehlerst
+MAINTAINER Tim Ehlers <ehlerst@gmail.com>
 
 ENV GOVERSION='1.8'
 
