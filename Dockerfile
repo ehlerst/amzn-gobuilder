@@ -1,7 +1,7 @@
 FROM amazonlinux
 MAINTAINER Tim Ehlers <ehlerst@gmail.com>
 
-ENV GOVERSION='1.8'
+ENV GOVERSION='1.8.1'
 
 RUN yum groupinstall 'Development Tools' -y
 
